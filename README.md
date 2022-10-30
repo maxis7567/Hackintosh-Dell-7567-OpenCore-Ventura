@@ -50,7 +50,7 @@ sudo diskutil rename "Install macOS Ventura" install_osx
   - Choose *install_osx* in OpenCore
   - Open *diskutility* and format the partition into apfs and label the partition (eg. macOS)
   - Continue to install
-  - System now automatically reboots, boot again into opencore, but now select 'Install macOS Big Sur' instead of 'install_osx'
+  - System now automatically reboots, boot again into opencore, but now select 'Install macOS Ventura' instead of 'install_osx'
   
 
 ## Post Installation
